@@ -22,7 +22,11 @@ The **Ola Data Analytics** project demonstrates the full data analytics pipeline
   - Location-wise demand distribution
 
 ## 📷 Sample Dashboards
-> *(Include screenshots or GIFs here if available)*
+![Ride Trends Dashboard](rides-overview.png)
+![Revenue Dashboard](8827282f-a652-4a7a-a4b0-b956849eb441.png)
+![Revenue Dashboard](91b2d6f7-0221-442e-a6a1-9146dfaa685f.png)
+![Revenue Dashboard](939ad486-d087-436b-9a82-4736006ac9e4.png)
+![Revenue Dashboard](b445105e-d453-4cc8-a968-3a5e56f0e3f8.png)
 
 ## 🚀 Getting Started
 
